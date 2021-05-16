@@ -1,6 +1,7 @@
+### Sistema para anúncios
 
-
-### execução do projeto
+aplicação spring boot rest para gestão de anúncios e relatórios
+### Execução do projeto
 
 para executar o projeto é necessário ter a versão Java 11 instalada no computador
 
